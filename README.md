@@ -5,7 +5,7 @@ A modern web platform for booking home services like plumbing, electrical repair
 
 ## 🌐 Live Demo
 
-**Visit the live website**: [https://teja9391.github.io/Fixhub/mini%20projects/index.html](https://teja9391.github.io/Fixhub/mini%20projects/index.html)
+**Visit the live website**: [https://shashi26-cloud.github.io/Fixhub/mini%20projects/index.html](https://shashi26-cloud.github.io/Fixhub/mini%20projects/index.html)
 
 ## ✨ Features
 
@@ -52,8 +52,8 @@ Fixhub/
 
 ## 🔗 Links
 
-- **Live Site**: [FixHub Home Services](https://teja9391.github.io/Fixhub/mini%20projects/index.html)
-- **Repository**: [GitHub](https://github.com/TEJA9391/Fixhub)
+- **Live Site**: [FixHub Home Services](https://shashi26-cloud.github.io/Fixhub/mini%20projects/index.html)
+- **Repository**: [GitHub](https://github.com/shashi26-cloud/Fixhub)
 
 ---
 
